@@ -1,3 +1,7 @@
+This is a netbean IDE project!
+
+
+
 Installation
 ------------------------------------------------------------------------------------------------
 ---Step 1. Import database file into MySQL database and database name will be "cashbook_aeontanvir"
