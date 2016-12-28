@@ -1,2 +1,23 @@
 # cashbook
 This is a java swing and mysql based desktop cashbook application with multi level user panel and high security. 
+
+
+This is a netbean IDE project!
+
+
+
+Installation
+------------------------------------------------------------------------------------------------
+---Step 1. Import database file into MySQL database and database name will be "cashbook_aeontanvir"
+---Step 2. Create a text file into root directory name it dbinfo.txt
+---Step 3. Into dbinfo file write database username and press enter write username password
+Like:
+root
+apcl123456
+---Step 4. Save It
+---Step 5. Enjoy Application
+
+
+Default User:
+Super ------- User : admin | password: admin 
+Normal------- User : hasan | password: hasan
